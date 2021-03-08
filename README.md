@@ -1,8 +1,8 @@
-### "Testing leads to failure, and failure leads to understanding."!
+> "Testing leads to failure, and failure leads to understanding."!
 
 </p>
 <p align="center">  
-<img src="https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif" width="1200">
+<img src="https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif" width="900">
 </p>
 
 ## 📚 Languages && Tools:
