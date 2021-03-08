@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">  
-<img src="https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif" width="900">
+<img src="https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif" width="600">
 </p>
 
 ## 📚 Languages && Tools:
