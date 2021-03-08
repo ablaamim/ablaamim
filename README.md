@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">  
-<img src="https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif" width="600">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2419998257285703812/AA29C335462FF165313CD8F167496E0C869028FA/" width="1200">
 </p>
 
 ## 📚 Languages && Tools:
