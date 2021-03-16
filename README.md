@@ -1,6 +1,11 @@
 > "Testing leads to failure, and failure leads to understanding."!
 
-[My hackerRank Profile](https://www.hackerrank.com/Alaamimi)
+## :information_source: Profiles:
+
+[hackerRank](https://www.hackerrank.com/Alaamimi)
+
+[Leetcode](https://leetcode.com/Alaamimi/)
+
 
 </p>
 <p align="center">  
