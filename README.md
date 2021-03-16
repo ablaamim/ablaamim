@@ -1,10 +1,10 @@
 > "Testing leads to failure, and failure leads to understanding."!
 
-## :information_source: Profiles:
+## :information_source: Profiles :
 
-[hackerRank](https://www.hackerrank.com/Alaamimi)
+* [HackerRank](https://www.hackerrank.com/Alaamimi)
 
-[Leetcode](https://leetcode.com/Alaamimi/)
+* [Leetcode](https://leetcode.com/Alaamimi/)
 
 
 </p>
