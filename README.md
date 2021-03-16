@@ -9,6 +9,10 @@
 * [SoloLearn](https://www.sololearn.com/profile/21098635)
 
 
+## ::computer: Certificates :
+
+* [Link](https://github.com/Alaamimi/Certificates)
+
 </p>
 <p align="center">  
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2419998257285703812/AA29C335462FF165313CD8F167496E0C869028FA/" width="1200">
