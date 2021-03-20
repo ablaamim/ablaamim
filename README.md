@@ -1,4 +1,9 @@
+
+---
+
 ## :information_source: Profiles :
+
+---
 
 * [HackerRank](https://www.hackerrank.com/Alaamimi)
 
@@ -6,12 +11,19 @@
 
 * [SoloLearn](https://www.sololearn.com/profile/21098635)
 
+---
 
-## :computer: Certificates :
+## :computer: My certificates :
+
+---
 
 * [Link](https://github.com/Alaamimi/Certificates)
 
+---
+
 ## :speaker: The legend says :
+
+---
 
 > "Testing leads to failure, and failure leads to understanding."!
 
