@@ -19,6 +19,10 @@
 
 * [Link](https://github.com/Alaamimi/Certificates)
 
+<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Basic.png">
+    <img src="badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+</a>
+
 ---
 
 ## :speaker: The legend says :
