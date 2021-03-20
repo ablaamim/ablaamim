@@ -47,5 +47,3 @@
 <img align="left" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" width="60" />
 <img align="left" src="https://bashlogo.com/img/symbol/jpg/full_colored_dark.jpg" width="55" />
 
----
-
