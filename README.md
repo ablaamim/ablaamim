@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Java.png">
-    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/java%20basic%20skill.png" alt="Java (Basic) Certificate"/>
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Problem%20Solving%20Basic.png">
