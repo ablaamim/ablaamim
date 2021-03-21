@@ -50,6 +50,9 @@
     <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/Angular.png" alt="JavaScript (Basic) Certificate"/>
 </a>
 
+<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Data%20Structures.png">
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/SoloLearn.png" alt="JavaScript (Basic) Certificate"/>
+</a>
 
 
 ---
