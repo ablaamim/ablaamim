@@ -21,8 +21,8 @@
     <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/Rest%20API.png" alt=" Rest API (Intermediate) Certificate"/>
 </a>
 
-<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Basic.png">
-    <img src="badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/cert-21098635-1157.png">
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/SoloLearn.png" alt="Python (Basic) Certificate"/>
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Java.png">
@@ -36,6 +36,10 @@
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Problem%20Solving%20Basic.png">
     <img src="badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
+</a>
+
+<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Basic.png">
+    <img src="badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/React-Basic.png">
