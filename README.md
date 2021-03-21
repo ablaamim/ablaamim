@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/cert-21098635-1157.png">
-    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/SoloLearn.png" alt="Python (Basic) Certificate"/>
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/SoloLearn%20Python.png" alt="Python (Basic) Certificate"/>
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Java.png">
