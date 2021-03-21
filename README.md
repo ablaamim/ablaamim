@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Java.png">
-    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/react_basic_skill.png" alt="Java (Basic) Certificate"/>
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Problem%20Solving%20Basic.png">
@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/React-Basic.png">
-    <img src="badges/problem_solving_basic_skill.png" alt="React (Basic) Certificate"/>
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/react_basic_skill.png" alt="React (Basic) Certificate"/>
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/javaScript.png">
