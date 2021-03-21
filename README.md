@@ -17,6 +17,10 @@
 
 ---
 
+<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Rest_API.png">
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/HackerRank_-_2021-03-21_01.35.06.png" alt=" Rest API (Intermediate) Certificate"/>
+</a>
+
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Basic.png">
     <img src="badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
@@ -36,6 +40,8 @@
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/javaScript.png">
     <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
 </a>
+
+
 
 
 ---
