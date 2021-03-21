@@ -29,6 +29,11 @@
     <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/java%20basic%20skill.png" alt="Java (Basic) Certificate"/>
 </a>
 
+<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Scientific_Computing_With_Python.png">
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/Freecode.png" alt="JavaScript (Basic) Certificate"/>
+</a>
+
+
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Problem%20Solving%20Basic.png">
     <img src="badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
 </a>
