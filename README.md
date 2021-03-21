@@ -41,6 +41,9 @@
     <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
 </a>
 
+<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Angular-Basic.png">
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/Angular.png" alt="JavaScript (Basic) Certificate"/>
+</a>
 
 
 
