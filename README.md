@@ -17,8 +17,8 @@
 
 ---
 
-<a href="https://github.com/Alaamimi/Alaamimi/blob/main/badges/rest%20api.png">
-    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/HackerRank_-_2021-03-21_01.35.06.png" alt=" Rest API (Intermediate) Certificate"/>
+<a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Rest_API.png">
+    <img src="https://github.com/Alaamimi/Alaamimi/blob/main/badges/rest%20api.png" alt=" Rest API (Intermediate) Certificate"/>
 </a>
 
 <a href="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Basic.png">
