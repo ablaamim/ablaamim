@@ -65,7 +65,7 @@
 
 ---
 
-## :speaker: Pivate repositories for now.
+## :speaker: Private repositories for now.
 
 ---
 
