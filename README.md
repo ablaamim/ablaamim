@@ -7,8 +7,6 @@
 
 * [HackerRank](https://www.hackerrank.com/Alaamimi)
 
-* [Leetcode](https://leetcode.com/Alaamimi/)
-
 * [SoloLearn](https://www.sololearn.com/profile/21098635)
 
 * [FreeCodeCamp](https://www.freecodecamp.org/alaamimi)
@@ -67,11 +65,7 @@
 
 ---
 
-## :speaker: The legend says :
-
----
-
-> "Testing leads to failure, and failure leads to understanding."!
+## :speaker: Pivate repositories for now.
 
 ---
 
