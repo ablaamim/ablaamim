@@ -19,7 +19,7 @@
 
 </p>
 <p align="center">
-    <img src="https://logodix.com/logo/1599379.png" width="400"/>
+    <img src="https://logodix.com/logo/1599488.jpg" width="600"/>
 </p>
 
 ---
