@@ -11,6 +11,8 @@
 
 * [FreeCodeCamp](https://www.freecodecamp.org/alaamimi)
 
+* [Coursera](https://www.coursera.org/user/2932bdef3b407e53d4c2512e07ddd207)
+
 ---
 
 ## :computer: [My certificates](https://github.com/alaamimi/Certificates) :
@@ -19,7 +21,7 @@
 </p>
 
 <p align="center">
-    <img src="https://logodix.com/logo/1599379.png" width="600"/>
+    <img src="https://logodix.com/logo/1599379.png" width="500"/>
 </p>
 
 ---
