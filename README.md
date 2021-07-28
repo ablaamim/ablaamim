@@ -15,14 +15,7 @@
 
 ---
 
-## :computer: [My certificates](https://github.com/alaamimi/Certificates) :
-
----
-</p>
-
-<p align="center">
-    <img src="https://logodix.com/logo/1599379.png" width="500"/>
-</p>
+## :computer: Link to view my [certificates](https://github.com/alaamimi/Certificates)
 
 ---
 
