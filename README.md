@@ -5,9 +5,13 @@
 
 ---
 
-* [HackerRank](https://www.hackerrank.com/Alaamimi)		* [SoloLearn](https://www.sololearn.com/profile/21098635)
+* [HackerRank](https://www.hackerrank.com/Alaamimi)
 
-* [FreeCodeCamp](https://www.freecodecamp.org/alaamimi)		* [Coursera](https://www.coursera.org/user/2932bdef3b407e53d4c2512e07ddd207)
+* [SoloLearn](https://www.sololearn.com/profile/21098635)
+
+* [FreeCodeCamp](https://www.freecodecamp.org/alaamimi)
+
+* [Coursera](https://www.coursera.org/user/2932bdef3b407e53d4c2512e07ddd207)
 
 ---
 
