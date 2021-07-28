@@ -16,10 +16,10 @@
 ## :computer: [My certificates](https://github.com/alaamimi/Certificates) :
 
 ---
-
 </p>
+
 <p align="center">
-    <img src="https://logodix.com/logo/1599488.jpg" width="600"/>
+    <img src="https://logodix.com/logos/1599379" width="600"/>
 </p>
 
 ---
