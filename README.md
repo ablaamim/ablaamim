@@ -5,17 +5,13 @@
 
 ---
 
-* [HackerRank](https://www.hackerrank.com/Alaamimi)
+* [HackerRank](https://www.hackerrank.com/Alaamimi)		* [SoloLearn](https://www.sololearn.com/profile/21098635)
 
-* [SoloLearn](https://www.sololearn.com/profile/21098635)
-
-* [FreeCodeCamp](https://www.freecodecamp.org/alaamimi)
-
-* [Coursera](https://www.coursera.org/user/2932bdef3b407e53d4c2512e07ddd207)
+* [FreeCodeCamp](https://www.freecodecamp.org/alaamimi)		* [Coursera](https://www.coursera.org/user/2932bdef3b407e53d4c2512e07ddd207)
 
 ---
 
-## :computer: Link to view my [certificates](https://github.com/alaamimi/Certificates)
+## :1st_place_medal: Link to view my [certificates](https://github.com/alaamimi/Certificates) :1st_place_medal:
 
 ---
 
