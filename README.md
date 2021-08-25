@@ -36,8 +36,8 @@
 
 <code><img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="100" /></code> 
 <code><img align="left" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="100" /></code>   
-<code><img align="left" src="https://github.com/Alaamimi/Alaamimi/blob/main/Src/768px-Python-logo-notext.svg.png" width="58" /></code>
-<code><img align="left" Src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="52"/></code>
-<code><img align="left" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" width="60"/></code>
-<code><img align="left" src="https://bashlogo.com/img/symbol/jpg/full_colored_dark.jpg" width="55"/></code>
+<code><img align="left" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100" /></code>
+<code><img align="left" Src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"/></code>
+<code><img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"/></code>
+<code><img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"/></code>
 
