@@ -43,8 +43,4 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"></code>
 
-<hr>
-
-<br/>
-
 ---
