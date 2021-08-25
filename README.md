@@ -11,8 +11,6 @@
 
 * [FreeCodeCamp](https://www.freecodecamp.org/alaamimi)
 
-* [Coursera](https://www.coursera.org/user/2932bdef3b407e53d4c2512e07ddd207)
-
 ---
 
 ## :1st_place_medal: Link to view my [certificates](https://github.com/alaamimi/Certificates) :1st_place_medal:
@@ -20,6 +18,13 @@
 ---
 
 ## :speaker: Most of my repositories are private.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaamimi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alaamimi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+<hr>
+</p>
+<br/>
 
 ---
 
