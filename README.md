@@ -35,12 +35,12 @@
 ---
 </p aligne = "left">
 
-<code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="100"></code> 
-<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="100"></code>   
-<code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"></code>
-<code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"></code>
-<code><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="100"></code>   
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"></code>
 
 <hr>
 
