@@ -39,5 +39,5 @@
 <code><img align="left" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100" /></code>
 <code><img align="left" Src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"/></code>
 <code><img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"/></code>
-<code><img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"/></code>
+<code><img align="left" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"/></code>
 
