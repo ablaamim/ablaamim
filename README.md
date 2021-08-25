@@ -33,6 +33,7 @@
 ## 📚 Languages && Tools:
 
 ---
+
 </p aligne = "left">
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> 
@@ -45,3 +46,5 @@
 <hr>
 
 <br/>
+
+---
