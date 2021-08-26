@@ -23,6 +23,8 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alaamimi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
+<br><br><br>
+
 ---
 
 </p>
