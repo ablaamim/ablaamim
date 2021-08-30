@@ -32,8 +32,6 @@
 <img src="https://i.kym-cdn.com/photos/images/original/001/036/775/5f6.gif" width="250">
 </p>
 
-![](https://komarev.com/ghpvc/?username=alaamimi&label=Profile+views&color=lightgrey&style=flat)
-
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and tools***:
