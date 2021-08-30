@@ -30,8 +30,9 @@
 </p>
 <p align="center">  
 <img src="https://i.kym-cdn.com/photos/images/original/001/036/775/5f6.gif" width="250">
-##Commit go Brrrrrrrr!
 </p>
+
+![](https://komarev.com/ghpvc/?username=alaamimi&label=Profile+views&color=lightgrey&style=flat)
 
 ---
 
