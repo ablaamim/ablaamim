@@ -1,15 +1,11 @@
 
 ---
 
-## :information_source: Profiles :
+## :information_source: HACKERRANK PROFILE :
 
 ---
 
 * [HackerRank](https://www.hackerrank.com/Alaamimi)
-
-* [SoloLearn](https://www.sololearn.com/profile/21098635)
-
-* [FreeCodeCamp](https://www.freecodecamp.org/alaamimi)
 
 ---
 
