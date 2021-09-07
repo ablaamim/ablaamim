@@ -1,7 +1,7 @@
 
 ---
 
-## :information_source: HackerRank PROFILE :
+## :information_source: HackerRank Profile :
 
 ---
 
