@@ -25,7 +25,7 @@
 
 </p>
 <p align="center">  
-<img src="https://i.kym-cdn.com/photos/images/original/001/036/775/5f6.gif" width="250">
+<img src="https://cdn.theatlantic.com/thumbor/_y8_-24aVSJ1yPW7s3ujTV7wC2I=/0x104:2000x1229/1536x864/media/img/2017/03/08/Aristotle1_1/original.jpg" width="500">
 </p>
 
 ---
