@@ -9,7 +9,7 @@
 
 ---
 
-## :1st_place_medal: Link to view my [certificates](https://github.com/alaamimi/Certificates) :1st_place_medal:
+## :student: Link to view my [certificates](https://github.com/alaamimi/Certificates)
 
 ---
 
