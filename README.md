@@ -1,7 +1,7 @@
 
 ---
 
-## :information_source: HackerRank Profile :
+## :dark_sunglasses: HackerRank Profile :
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-## :student: Link to view my [certificates](https://github.com/alaamimi/Certificates)
+## :student: :medal_military: Link to view my [certificates](https://github.com/alaamimi/Certificates)
 
 ---
 
