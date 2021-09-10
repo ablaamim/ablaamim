@@ -13,9 +13,8 @@
 
 ---
 
-## :student: :medal_military: Link to view my [certificates](https://github.com/alaamimi/Certificates) || :dark_sunglasses: [HackerRank](https://www.hackerrank.com/Alaamimi) Profile.
-
-<a href="https://github.com/alaamimi"><img src="https://img.shields.io/github/followers/alaamimi?label=Follow&style=social"></a>
+## :student: :medal_military: Link to view my [certificates](https://github.com/alaamimi/Certificates) 
+<a href="https://github.com/alaamimi"><img src="https://img.shields.io/github/followers/alaamimi?label=Follow&style=social"></a> :dark_sunglasses: [HackerRank](https://www.hackerrank.com/Alaamimi) Profile.
 
 ---
 
