@@ -5,12 +5,11 @@
 
 ---
 
-
-## :student: :medal_military: Link to view my [certificates](https://github.com/alaamimi/Certificates)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaamimi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaamimi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+## :student: :medal_military: Link to view my [certificates](https://github.com/alaamimi/Certificates)
 
 ---
 
