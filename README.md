@@ -7,7 +7,7 @@
 
 ---
 
-## STATS :
+## :computer: STATISTICS :
 
 <a href="https://github.com/alaamimi?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamimi&theme=dark"/>
