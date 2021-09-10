@@ -13,12 +13,7 @@
 
 ---
 
-## :speaker: Most of my repositories are private.
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alaamimi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-<hr>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaamimi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 ---
 
