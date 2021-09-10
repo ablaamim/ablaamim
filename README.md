@@ -23,9 +23,7 @@
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Alaamimi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Alaamimi)
 
 ---
 
