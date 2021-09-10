@@ -1,14 +1,21 @@
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaamimi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+## STATS :
 
+<a href="https://github.com/alaamimi?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamimi&theme=dark"/>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaamimi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<a href="https://github.com/alaamimi?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaamimi&line_height=40&show_icons=true&theme=dark">
+</a>
+
 
 ---
 
 ## :student: :medal_military: Link to view my [certificates](https://github.com/alaamimi/Certificates) || :dark_sunglasses: [HackerRank](https://www.hackerrank.com/Alaamimi) Profile.
 
+<a href="https://github.com/alaamimi"><img src="https://img.shields.io/github/followers/alaamimi?label=Follow&style=social"></a>
 
 ---
 
