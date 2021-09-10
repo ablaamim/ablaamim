@@ -23,9 +23,7 @@
 
 ---
 
-## :student: :medal_military: Link to view my [certificates](https://github.com/alaamimi/Certificates) 
-
-## :dark_sunglasses: [HackerRank](https://www.hackerrank.com/Alaamimi) Profile.
+## :student: :medal_military: [certificates](https://github.com/alaamimi/Certificates) && :dark_sunglasses: [HackerRank](https://www.hackerrank.com/Alaamimi)
 
 ---
 
