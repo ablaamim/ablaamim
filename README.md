@@ -1,11 +1,7 @@
 
 ---
 
-## :dark_sunglasses: HackerRank Profile :
-
----
-
-* [HackerRank](https://www.hackerrank.com/Alaamimi)
+## :dark_sunglasses: * [HackerRank](https://www.hackerrank.com/Alaamimi) Profile :
 
 ---
 
