@@ -9,28 +9,28 @@
 
 ## :computer: STATISTICS :
 
-<a href="https://github.com/alaamimi?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamimi&theme=dark"/>
+<a href="https://github.com/ablaamim?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablaamim&theme=dark"/>
 </a>
 
-<a href="https://github.com/alaamimi?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaamimi&line_height=40&show_icons=true&theme=dark">
+<a href="https://github.com/ablaamim?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ablaamim&line_height=40&show_icons=true&theme=dark">
 </a>
 
 ---
 
-<a href="https://github.com/alaamimi"><img src="https://img.shields.io/github/followers/alaamimi?label=Follow&style=social"></a>
+<a href="https://github.com/ablaamim"><img src="https://img.shields.io/github/followers/ablaamim?label=Follow&style=social"></a>
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Alaamimi) [<img src='https://cdn-icons-png.flaticon.com/512/1/1700.png' alt='Certificates' height='40'>](https://github.com/alaamimi/Certificates)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Alaamimi) [<img src='https://cdn-icons-png.flaticon.com/512/1/1700.png' alt='Certificates' height='40'>](https://github.com/ablaamim/Certificates)
 
 ---
 
 <br/>
 <br/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=alaamimi&theme=github" alt="alaamimi's github activity graph"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ablaamim&theme=github" alt="ablaamim's github activity graph"/>
 
 <br/>
 <br/
