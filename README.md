@@ -25,6 +25,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Alaamimi) [<img src='https://cdn-icons-png.flaticon.com/512/1/1700.png' alt='Certificates' height='40'>](https://github.com/ablaamim/Certificates)
 
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ablaamim)](https://github.com/mohouyizme/1337-readme)
+
 ---
 
 <br/>
