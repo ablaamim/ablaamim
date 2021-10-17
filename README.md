@@ -32,6 +32,8 @@
 <br/>
 <br/>
 
+---
+
 <img src="https://activity-graph.herokuapp.com/graph?username=ablaamim&theme=github" alt="ablaamim's github activity graph"/>
 
 <br/>
