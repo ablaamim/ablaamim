@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">  
-<img src="https://c.tenor.com/2slseEsQhzgAAAAS/philosophy-academy.gif" width="800">
+<img src="https://c.tenor.com/2slseEsQhzgAAAAd/philosophy-academy.gif" width="800">
 </p>
 
 ---
