@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">  
-<img src="https://cdn.theatlantic.com/thumbor/_y8_-24aVSJ1yPW7s3ujTV7wC2I=/0x104:2000x1229/1536x864/media/img/2017/03/08/Aristotle1_1/original.jpg" width="800">
+<img src="https://c.tenor.com/2slseEsQhzgAAAAS/philosophy-academy.gif" width="800">
 </p>
 
 ---
