@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">  
-<img src="https://tenor.com/view/philosophy-academy-athens-art-raphael-gif-17399902" width="800">
+<img src="https://cdn.theatlantic.com/thumbor/_y8_-24aVSJ1yPW7s3ujTV7wC2I=/0x104:2000x1229/1536x864/media/img/2017/03/08/Aristotle1_1/original.jpg" width="800">
 </p>
 
 ---
