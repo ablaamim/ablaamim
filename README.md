@@ -34,12 +34,6 @@
 <br/>
 <br/>
 
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ablaamim&theme=github" alt="ablaamim's github activity graph"/>
-
-<br/>
-<br/
-
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and tools***:
