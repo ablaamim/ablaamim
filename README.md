@@ -27,7 +27,14 @@
 
 ---
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ablaamim)](https://github.com/mohouyizme/1337-readme)
+<p align="center">[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ablaamim)](https://github.com/mohouyizme/1337-readme)</p>
+
+<p align="center">
+<a href=https://github.com/ablaamim/libft><img src="https://github.com/ablaamim/libft/blob/main/ressources/libftm.png"></a>
+<a href=https://github.com/ablaamim/Get_Next_Line><img src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
+<a href=https://github.com/ablaamim/ft_printf><img src="https://github.com/ablaamim/ft_printf/blob/main/SRC/ft_printfm.png"></a>
+<a href=https://github.com/ablaamim/born2beroot><img src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
+</p>
 
 ---
 
