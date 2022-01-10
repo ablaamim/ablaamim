@@ -27,7 +27,8 @@
 
 ---
 
-### 42 projects
+## :trophy: 42 projects
+
 <p align="center"><img src="https://badge42.herokuapp.com/api/stats/ablaamim?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
 
 <p align="center">
