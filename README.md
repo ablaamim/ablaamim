@@ -27,6 +27,9 @@
 
 ---
 
+### 42 projects
+<p align="center"><img src="https://badge42.herokuapp.com/api/stats/ablaamim?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
+
 <p align="center">
 <a href=https://github.com/ablaamim/libft><img src="https://github.com/ablaamim/libft/blob/main/ressources/libftm.png"></a>
 <a href=https://github.com/ablaamim/Get_Next_Line><img src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
@@ -37,8 +40,11 @@
 ---
 
 [![libft](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=libft&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/libft)
+
 [![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=get_next_line&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Get_Next_Line)
+
 [![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=ft_printf&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/ft_printf)
+
 [![born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=born2beroot&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/born2beroot)
 
 ---
