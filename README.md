@@ -29,8 +29,6 @@
 
 ## :trophy: 42 projects
 
-<p align="center"><img src="https://badge42.herokuapp.com/api/stats/ablaamim?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
-
 <p align="center">
 <a href=https://github.com/ablaamim/libft><img src="https://github.com/ablaamim/libft/blob/main/ressources/libftm.png"></a>
 <a href=https://github.com/ablaamim/Get_Next_Line><img src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
