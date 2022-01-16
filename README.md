@@ -45,7 +45,7 @@
 
 ---
 
-### :arrow_forward: 42 projects
+### :arrow_forward: 42 projects :
 
 <p align="center">
 <a href=https://github.com/ablaamim/libft><img src="https://github.com/ablaamim/libft/blob/main/ressources/libftm.png"></a>
@@ -64,7 +64,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and tools***:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and tools*** :
 
 ---
 
