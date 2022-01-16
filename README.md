@@ -1,8 +1,15 @@
 ---
 
-</p>
-<p align="center">  
-<img src="https://cdn.theatlantic.com/thumbor/_y8_-24aVSJ1yPW7s3ujTV7wC2I=/0x104:2000x1229/1536x864/media/img/2017/03/08/Aristotle1_1/original.jpg" width="800">
+<p align="left">
+    <a href="#">
+        <img width="28%" src="./assets/images/particle_circle.gif" alt="" />
+    </a>
+    <a href="#">
+        <img width="21%" src="./assets/images/spacer.png" alt="" >
+    </a>
+    <a href="#">
+        <img width="50%" src="./assets/images/atlantis.gif" alt="" />
+    </a>
 </p>
 
 ---
@@ -23,7 +30,7 @@
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Alaamimi) [<img src='https://cdn-icons-png.flaticon.com/512/1/1700.png' alt='Certificates' height='40'>](https://github.com/ablaamim/Certificates)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ablaamim) [<img src='https://cdn-icons-png.flaticon.com/512/1/1700.png' alt='Certificates' height='40'>](https://github.com/ablaamim/Certificates)
 
 ---
 
