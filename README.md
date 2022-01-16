@@ -14,7 +14,7 @@
 
 ---
 
-## :computer: STATISTICS :
+## :computer: Statistics :
 
 <p align="center">
     <a href="#">
