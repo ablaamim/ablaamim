@@ -66,3 +66,17 @@
 </p>
 
 ---
+
+<p align="left">
+    <a href="#">
+        <img width="20%" src="./assets/images/hand.gif" alt="" />
+    </a>
+    <a href="#">
+        <img width="59%" src="./assets/images/spacer.png" alt="" >
+    </a>
+    <a href="#">
+        <img width="20%" src="./assets/images/skull.gif" alt="" />
+    </a>
+</p>
+
+---
