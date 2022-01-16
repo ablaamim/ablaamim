@@ -32,7 +32,7 @@
 
 ---
 
-## :trophy: 42 projects
+## :arrow_forward: 42 projects
 
 <p align="center">
 <a href=https://github.com/ablaamim/libft><img src="https://github.com/ablaamim/libft/blob/main/ressources/libftm.png"></a>
