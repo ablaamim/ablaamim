@@ -1,5 +1,3 @@
----
-
 <p align="left">
     <a href="#">
         <img width="28%" src="./assets/images/particle_circle.gif" alt="" />
@@ -31,6 +29,7 @@
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ablaamim) [<img src='https://cdn-icons-png.flaticon.com/512/1/1700.png' alt='Certificates' height='40'>](https://github.com/ablaamim/Certificates)
+<img width="40%" align="right" alt="Github Image" src="./assets/images/head.gif" />
 
 ---
 
