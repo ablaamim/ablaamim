@@ -29,7 +29,6 @@
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdessamad-laamimi-a1386116a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ablaamim) [<img src='https://cdn-icons-png.flaticon.com/512/1/1700.png' alt='Certificates' height='40'>](https://github.com/ablaamim/Certificates)
-<img width="40%" align="right" alt="Github Image" src="./assets/images/head.gif" />
 
 ---
 
@@ -38,6 +37,7 @@
 <p align="center">
 <a href=https://github.com/ablaamim/libft><img src="https://github.com/ablaamim/libft/blob/main/ressources/libftm.png"></a>
 <a href=https://github.com/ablaamim/Get_Next_Line><img src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
+<img width="40%" align="right" alt="Github Image" src="./assets/images/head.gif" />
 <a href=https://github.com/ablaamim/ft_printf><img src="https://github.com/ablaamim/ft_printf/blob/main/SRC/ft_printfm.png"></a>
 <a href=https://github.com/ablaamim/born2beroot><img src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
 </p>
