@@ -14,6 +14,18 @@
 
 ## :computer: STATISTICS :
 
+<p align="center">
+    <a href="#">
+        <img width="100" src="https://github-profile-trophy.vercel.app/?username=ablaamim&title=Organizations&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
+    </a>
+    <a href="#">
+        <img width="100" src="https://github-profile-trophy.vercel.app/?username=ablaamim&title=Followers&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
+    </a>
+    <a href="#">
+        <img width="100" src="https://github-profile-trophy.vercel.app/?username=ablaamim&title=Commit&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
+    </a>
+</p>
+
 <a href="https://github.com/ablaamim?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablaamim&theme=dark"/>
 </a>
