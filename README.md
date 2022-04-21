@@ -61,6 +61,7 @@
 [![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=ft_printf&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/ft_printf)
 [![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=get_next_line&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Get_Next_Line)
 [![born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=born2beroot&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/born2beroot)
+[![push_swap](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=push_swap&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Push_swap_V3.0)
 
 ---
 
