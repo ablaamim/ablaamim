@@ -54,8 +54,6 @@
 <a href=https://github.com/ablaamim/ft_printf><img src="https://github.com/ablaamim/ft_printf/blob/main/SRC/ft_printfm.png"></a>
 <a href=https://github.com/ablaamim/born2beroot><img src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
 <a href=https://github.com/ablaamim/Push_swap_V3.0><img src="https://github.com/ablaamim/Push_swap_V3.0/blob/master/img/push_swapm.png"></a>
-
-
 <a href="https://github.com/ablaamim/Fract-ol"><img src="https://github.com/ablaamim/Fract-ol/blob/master/SRC_IMG/fractolm.png"></a>
 
 </p>
