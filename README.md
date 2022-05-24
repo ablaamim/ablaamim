@@ -86,7 +86,7 @@
 
 <p align="left">
     <a href="#">
-        <img width="59%" src="./assets/images/hand.gif" alt="" />
+        <img width="20%" src="./assets/images/hand.gif" alt="" />
     </a>
 </p>
 
