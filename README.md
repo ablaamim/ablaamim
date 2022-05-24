@@ -4,11 +4,9 @@
     <a href="#">
         <img width="28%" src="./assets/images/particle_circle.gif" alt="" />
     </a>
-
     <a href="#">
-        <img width="21%" src="./assets/images/spacer.png" alt="" >
+        <img width="21%" src="./assets/images/spacer.png" alt="" />
     </a>
-
     <a href="#">
         <img width="50%" src="./assets/images/atlantis.gif" alt="" />
     </a>
