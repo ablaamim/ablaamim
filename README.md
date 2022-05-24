@@ -47,7 +47,9 @@
 <p align="center">
 <a href=https://github.com/ablaamim/libft><img src="https://github.com/ablaamim/libft/blob/main/ressources/libftm.png"></a>
 <a href=https://github.com/ablaamim/Get_Next_Line><img src="https://github.com/ablaamim/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
+
 <img width="40%" align="right" alt="Github Image" src="./assets/images/head.gif" />
+
 <a href=https://github.com/ablaamim/ft_printf><img src="https://github.com/ablaamim/ft_printf/blob/main/SRC/ft_printfm.png"></a>
 <a href=https://github.com/ablaamim/born2beroot><img src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
 <a href=https://github.com/ablaamim/Push_swap_V3.0><img src="https://github.com/ablaamim/Push_swap_V3.0/blob/master/img/push_swapm.png"></a>
