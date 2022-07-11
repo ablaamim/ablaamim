@@ -55,7 +55,7 @@
 <a href=https://github.com/ablaamim/born2beroot><img src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
 <a href=https://github.com/ablaamim/Push_swap_V3.0><img src="https://github.com/ablaamim/Push_swap_V3.0/blob/master/img/push_swapm.png"></a>
 <a href="https://github.com/ablaamim/Fract-ol"><img src="https://github.com/ablaamim/Fract-ol/blob/master/SRC_IMG/fractolm.png"></a>
-
+<a href="https://github.com/ablaamim/Minishell-V2.0"><img src="https://github.com/ablaamim/Minishell-V2.0/blob/master/img/minishellm.png"></a>
 </p>
 
 ---
@@ -66,11 +66,11 @@
 [![born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=born2beroot&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/born2beroot)
 [![Push_swap_V3.0](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Push_swap_V3.0&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Push_swap_V3.0)
 [![Fract-ol](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Fract-ol&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Fract-ol)
+[![Minishell-V2.0](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Minishell-V2.0&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Miniishell-V2.0)
+
+
 
 ---
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="15px">&nbsp;
-
 
 </p>
 </p aligne = "left">
