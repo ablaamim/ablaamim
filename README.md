@@ -56,6 +56,7 @@
 <a href=https://github.com/ablaamim/Push_swap_V3.0><img src="https://github.com/ablaamim/Push_swap_V3.0/blob/master/img/push_swapm.png"></a>
 <a href="https://github.com/ablaamim/Fract-ol"><img src="https://github.com/ablaamim/Fract-ol/blob/master/SRC_IMG/fractolm.png"></a>
 <a href="https://github.com/ablaamim/Minishell-V2.0"><img src="https://github.com/ablaamim/Minishell-V2.0/blob/master/img/minishellm.png"></a>
+<a href="https://github.com/ablaamim/Philosophers"><img src="https://github.com/ablaamim/Philosophers/blob/main/images/philosophersm.png"></a>
 </p>
 
 ---
@@ -67,8 +68,7 @@
 [![Push_swap_V3.0](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Push_swap_V3.0&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Push_swap_V3.0)
 [![Fract-ol](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Fract-ol&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Fract-ol)
 [![Minishell-V2.0](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Minishell-V2.0&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Miniishell-V2.0)
-
-
+[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Philosophers&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Philosophers)
 
 ---
 
