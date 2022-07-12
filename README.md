@@ -1,13 +1,12 @@
 ---
 
 <p align="left">
-    <a href="#">
-        <img width="50%" src="./assets/images/particle_circle.gif" alt="" />
-    </a>
-
 	<a href="#">
-        <img width="50%" src="./assets/images/atlantis.gif" alt="" />
-    </a>
+		<img width="100" src="./assets/images/particle_circle.gif" alt="" />
+	</a>
+	<a href="#">
+		<img width="100" src="./assets/images/atlantis.gif" alt="" />
+	</a>
 </p>
 
 ---
@@ -17,12 +16,12 @@
 ---
 
 <p align="center">
-    <a href="#">
-        <img width="100" src="https://github-profile-trophy.vercel.app/?username=ablaamim&title=Followers&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
-    </a>
-    <a href="#">
-        <img width="100" src="https://github-profile-trophy.vercel.app/?username=ablaamim&title=Commit&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
-    </a>
+	<a href="#">
+		<img width="100" src="https://github-profile-trophy.vercel.app/?username=ablaamim&title=Followers&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
+	</a>
+	<a href="#">
+		<img width="100" src="https://github-profile-trophy.vercel.app/?username=ablaamim&title=Commit&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
+	</a>
 </p>
 
 ---
