@@ -5,7 +5,7 @@
 		<img width="250" src="./assets/images/particle_circle.gif" alt="" />
 	</a>
 	<a href="#">
-		<img width="250" src="./assets/images/atlantis.gif" alt="" />
+		<img width="350" src="./assets/images/atlantis.gif" alt="" />
 	</a>
 </p>
 
