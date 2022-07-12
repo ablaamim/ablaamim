@@ -4,7 +4,8 @@
     <a href="#">
         <img width="50%" src="./assets/images/particle_circle.gif" alt="" />
     </a>
-    <a href="#">
+
+	<a href="#">
         <img width="50%" src="./assets/images/atlantis.gif" alt="" />
     </a>
 </p>
