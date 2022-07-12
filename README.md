@@ -2,10 +2,10 @@
 
 <p align="left">
 	<a href="#">
-		<img width="100" src="./assets/images/particle_circle.gif" alt="" />
+		<img width="250" src="./assets/images/particle_circle.gif" alt="" />
 	</a>
 	<a href="#">
-		<img width="100" src="./assets/images/atlantis.gif" alt="" />
+		<img width="250" src="./assets/images/atlantis.gif" alt="" />
 	</a>
 </p>
 
