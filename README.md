@@ -11,7 +11,7 @@
 
 ---
 
-### :computer: Statistics :
+## ⚙️ &nbsp;GitHub Analytics
 
 ---
 
@@ -26,7 +26,13 @@
 
 ---
 
-## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+![](https://badge.mediaplus.ma/darkgray/ablaamim)
+  </div>
+</p>
+
+---
+
 <br>
 
 <div align="left">
