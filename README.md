@@ -26,11 +26,11 @@
 
 ---
 
-<p align="center">
+ <div align="center">
 
 ![](https://badge.mediaplus.ma/darkgray/ablaamim)
 
-</p>
+</div>
 
 ---
 
