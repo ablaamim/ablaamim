@@ -14,7 +14,7 @@
 
 ---
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics :
 
 ---
 
@@ -29,19 +29,19 @@
 
 ---
 
- <div align="center">
-
-![](https://badge.mediaplus.ma/darkgray/ablaamim)
-
-</div>
-
----
-
 <br>
 
 <div align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ablaamim&show_icons=true&theme=vision-friendly-dark" > 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablaamim&layout=compact&lang&theme=vision-friendly-dark" >
+</div>
+
+---
+
+<div align="center">
+
+![](https://badge.mediaplus.ma/darkgray/ablaamim)
+
 </div>
 
 ---
