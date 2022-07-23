@@ -27,8 +27,9 @@
 ---
 
 <p align="center">
+
 ![](https://badge.mediaplus.ma/darkgray/ablaamim)
-  </div>
+
 </p>
 
 ---
