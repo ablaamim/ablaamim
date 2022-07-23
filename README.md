@@ -26,13 +26,13 @@
 
 ---
 
-<a href="https://github.com/ablaamim?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablaamim&theme=dark"/>
-</a>
+## ⚙️ &nbsp;GitHub Analytics
+<br>
 
-<a href="https://github.com/ablaamim?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ablaamim&line_height=40&show_icons=true&theme=dark">
-</a>
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ablaamim&show_icons=true&theme=vision-friendly-dark" > 
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablaamim&layout=compact&lang&theme=vision-friendly-dark" >
+</div>
 
 ---
 
@@ -80,14 +80,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"></code>
-</p>
-
----
-
-<p align="left">
-    <a href="#">
-        <img width="25%" src="./assets/images/hand.gif" alt="" />
-    </a>
 </p>
 
 ---
