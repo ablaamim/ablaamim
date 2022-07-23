@@ -8,7 +8,7 @@
 		<img width="350" src="./assets/images/atlantis.gif" alt="" />
 	</a>
 	<a href="#">
-        <img width="25%" src="./assets/images/hand.gif" alt="" />
+        <img width="20%" src="./assets/images/hand.gif" alt="" />
     </a>
 </p>
 
