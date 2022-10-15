@@ -63,7 +63,6 @@
 <a href="https://github.com/ablaamim/Fract-ol"><img src="https://github.com/ablaamim/Fract-ol/blob/master/SRC_IMG/fractolm.png"></a>
 <a href="https://github.com/ablaamim/Minishell"><img src="https://github.com/ablaamim/Minishell/blob/master/img/minishellm.png"></a>
 <a href="https://github.com/ablaamim/Philosophers"><img src="https://github.com/ablaamim/Philosophers/blob/main/images/philosophersm.png"></a>
-
 <a href="https://github.com/ablaamim/cub3D"><img src="https://github.com/ablaamim/cub3D/blob/master/images/cub3dm.png"></a>
 </p>
 
