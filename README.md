@@ -61,8 +61,9 @@
 <a href=https://github.com/ablaamim/born2beroot><img src="https://github.com/ablaamim/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
 <a href=https://github.com/ablaamim/Push_swap_V3.0><img src="https://github.com/ablaamim/Push_swap_V3.0/blob/master/img/push_swapm.png"></a>
 <a href="https://github.com/ablaamim/Fract-ol"><img src="https://github.com/ablaamim/Fract-ol/blob/master/SRC_IMG/fractolm.png"></a>
-<a href="https://github.com/ablaamim/Minishell-V2.0"><img src="https://github.com/ablaamim/Minishell-V2.0/blob/master/img/minishellm.png"></a>
+<a href="https://github.com/ablaamim/Minishell"><img src="https://github.com/ablaamim/Minishell/blob/master/img/minishellm.png"></a>
 <a href="https://github.com/ablaamim/Philosophers"><img src="https://github.com/ablaamim/Philosophers/blob/main/images/philosophersm.png"></a>
+<a href="https://github.com/ablaamim/cub3D"><img src="https://github.com/ablaamim/cub3D/blob/main/images/cub3dm.png"></a>
 </p>
 
 ---
@@ -73,8 +74,9 @@
 [![born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=born2beroot&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/born2beroot)
 [![Push_swap_V3.0](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Push_swap_V3.0&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Push_swap_V3.0)
 [![Fract-ol](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Fract-ol&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Fract-ol)
-[![Minishell-V2.0](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Minishell-V2.0&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Miniishell-V2.0)
+[![Minishell-V2.0](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Minishell.0&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Miniishell)
 [![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Philosophers&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Philosophers)
+[![cub3D](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=cub3D&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/cub3D)
 
 ---
 
@@ -82,7 +84,7 @@
 </p aligne = "left">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="100"></code>   
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></code>:wq!
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"></code>
