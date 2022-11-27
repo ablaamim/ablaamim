@@ -81,8 +81,8 @@
 [![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Minishell&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Minitalk)
 [![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Philosophers&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Philosophers)
 [![cub3D](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=cub3D&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/cub3D)
-[![Pool-CPP](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=cub3D&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Pool-CPP)
-[![Netpractice](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=cub3D&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Netpractice)
+[![Pool-CPP](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Pool-CPP&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Pool-CPP)
+[![Netpractice](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Netpractice&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Netpractice)
 
 ---
 
