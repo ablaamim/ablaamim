@@ -64,6 +64,8 @@
 <a href="https://github.com/ablaamim/Minishell"><img src="https://github.com/ablaamim/Minishell/blob/master/img/minishellm.png"></a>
 <a href="https://github.com/ablaamim/Philosophers"><img src="https://github.com/ablaamim/Philosophers/blob/main/images/philosophersm.png"></a>
 <a href="https://github.com/ablaamim/cub3D"><img src="https://github.com/ablaamim/cub3D/blob/master/images/cub3dm.png"></a>
+<a href="https://github.com/ablaamim/Netpractice"><img src="https://github.com/ablaamim/Netpractice/blob/master/img/netpracticee.png"></a>
+<a href="https://github.com/ablaamim/Pool-CPP"><img src="https://github.com/ablaamim/Pool-CPP/blob/master/images/cppn.png"></a>
 </p>
 
 ---
@@ -77,6 +79,8 @@
 [![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Minishell&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Minishell)
 [![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Philosophers&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Philosophers)
 [![cub3D](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=cub3D&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/cub3D)
+[![Pool-CPP](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=cub3D&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Pool-CPP)
+[![Netpractice](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=cub3D&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Netpractice)
 
 ---
 
