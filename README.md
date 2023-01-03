@@ -7,9 +7,6 @@
 	<a href="#">
 		<img width="350" src="./assets/images/atlantis.gif" alt="" />
 	</a>
-	<a href="#">
-        <img width="20%" src="./assets/images/hand.gif" alt="" />
-    </a>
 </p>
 
 ---
@@ -26,15 +23,6 @@
 		<img width="100" src="https://github-profile-trophy.vercel.app/?username=ablaamim&title=Commit&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
 	</a>
 </p>
-
----
-
-<br>
-
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ablaamim&show_icons=true&theme=vision-friendly-dark" > 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablaamim&layout=compact&lang&theme=vision-friendly-dark" >
-</div>
 
 ---
 
@@ -68,21 +56,6 @@
 <a href="https://github.com/ablaamim/Netpractice"><img src="https://github.com/ablaamim/Netpractice/blob/master/img/netpracticee.png"></a>
 <a href="https://github.com/ablaamim/Pool-CPP"><img src="https://github.com/ablaamim/Pool-CPP/blob/master/images/cppn.png"></a>
 </p>
-
----
-
-[![libft](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=libft&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/libft)
-[![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=ft_printf&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/ft_printf)
-[![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=get_next_line&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Get_Next_Line)
-[![born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=born2beroot&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/born2beroot)
-[![Push_swap_V3.0](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Push_swap_V3.0&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Push_swap_V3.0)
-[![Fract-ol](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Fract-ol&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Fract-ol)
-[![Minitalk](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Fract-ol&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Fract-ol)
-[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Minishell&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Minitalk)
-[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Philosophers&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Philosophers)
-[![cub3D](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=cub3D&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/cub3D)
-[![Pool-CPP](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Pool-CPP&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Pool-CPP)
-[![Netpractice](https://github-readme-stats.vercel.app/api/pin/?username=ablaamim&repo=Netpractice&theme=tokyonight&hide_border=true)](https://github.com/ablaamim/Netpractice)
 
 ---
 
