@@ -7,7 +7,7 @@
 
 ---
 
-## Languages and tools :
+# Languages and tools :
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -43,7 +43,7 @@
 
 ----
 
-## 🏆 GitHub Trophies :
+# 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=ablaamim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-### :arrow_forward: 42 projects :
+# :arrow_forward: 42 projects :
 
 ---
 
