@@ -1,13 +1,9 @@
 ---
 
-<p align="left">
-	<a href="#">
-		<img width="250" src="./assets/images/particle_circle.gif" alt="" />
-	</a>
-	<a href="#">
-		<img width="350" src="./assets/images/atlantis.gif" alt="" />
-	</a>
 </p>
+<p align="center">
+<img src="https://github.com/ablaamim/ablaamim/blob/main/Src/philos.jpeg" width="500">
+<p/>
 
 ---
 
