@@ -7,7 +7,7 @@
 
 ---
 
-# Languages and tools :
+# Languages And Tools :
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
