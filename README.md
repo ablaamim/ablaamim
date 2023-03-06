@@ -7,7 +7,7 @@
 
 ---
 
-# :arrow_forward: 42 projects :
+#### 42 projects :
 
 ---
 
