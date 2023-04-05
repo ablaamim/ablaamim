@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">
-<img src="https://media.tenor.com/lnMkweb_gHwAAAAC/kaneki-tokyoghoul.gif" width="500">
+<img src="https://media.tenor.com/hJBN3Z6SPlIAAAAC/uta-tokyo-ghoul-uta.gif" width="00">
 <p/>
 
 ---
