@@ -25,7 +25,7 @@
 <a href="https://github.com/ablaamim/Netpractice"><img src="https://github.com/ablaamim/Netpractice/blob/master/img/netpracticee.png"></a>
 <a href="https://github.com/ablaamim/Pool-CPP"><img src="https://github.com/ablaamim/Pool-CPP/blob/master/images/cppn.png"></a>
 <a href="https://github.com/ablaamim/Inception"><img src="https://github.com/ablaamim/Inception/blob/main/images/inceptionm.png"></a>
-<a href="https://github.com/ablaamim/Webserv"><img src="https://github.com/ablaamim/Webserv/blob/main/img/webservm.png"></a>
+<a href="https://github.com/ablaamim/Webserv"><img src="https://github.com/ablaamim/Webserver"></a>
 
 </p>
 
