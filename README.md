@@ -1,5 +1,3 @@
----
-
 </p>
 <p align="center">
 <img src="https://i.gifer.com/2RAE.gif" width="700">
