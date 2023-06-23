@@ -24,7 +24,7 @@
 <a href="https://github.com/ablaamim/Pool-CPP"><img src="https://github.com/ablaamim/Pool-CPP/blob/master/images/cppn.png"></a>
 <a href="https://github.com/ablaamim/Inception"><img src="https://github.com/ablaamim/Inception/blob/main/images/inceptionm.png"></a>
 <a href="https://github.com/ablaamim/Webserver"><img src="https://github.com/ablaamim/Webserver/blob/master/webservm.png"></a>
-<a href="https://github.com/ablaamim/ft_transcendence"><img src="https://github.com/ablaamim/ft_transcendencee.png"></a>
+<a href="https://github.com/ablaamim/ft_transcendence"><img src="https://github.com/ablaamim/ablaamim/blob/main/ft_transcendencee.png"></a>
 
 </p>
 
