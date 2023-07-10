@@ -6,6 +6,10 @@
 
 ---
 
+#### 42 Badge:
+
+---
+
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ablaamim" alt="ablaamim's 42 stats" /></a>
 </p>
@@ -44,7 +48,7 @@
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=git,c,cpp,js,mysql,vscode,discord,html,css" />
+			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,ts" />
 		</a>
 	</div>
 </div>
@@ -54,11 +58,9 @@
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=ts,docker,angular,react,py" />
+			<img src="https://skillicons.dev/icons?i=bash,docker,git,vim,vscode,discord" />
 		</a>
 	</div>
 </div>
 
 <hr>
-
----
