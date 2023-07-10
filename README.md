@@ -1,7 +1,14 @@
-</p>
 <p align="center">
-<img src="https://i.kym-cdn.com/photos/images/original/000/595/082/19e.gif" width="600">
-<p/>
+  <a href="https://Rasengan.yellowflash2041.repl.co">
+    <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ablaamim" alt="ablaamim's 42 stats" /></a>
+</p>
 
 ---
 
@@ -27,5 +34,31 @@
 <a href="https://github.com/ablaamim/ft_transcendence"><img src="https://github.com/ablaamim/ablaamim/blob/main/ft_transcendencee.png"></a>
 
 </p>
+
+---
+
+<hr>
+
+*:hammer_and_wrench: my tools and languages (and other stuff)*
+
+<div>
+	<div id="icons" align="center">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=git,c,cpp,js,mysql,vscode,discord,html,css" />
+		</a>
+	</div>
+</div>
+
+
+
+<div>
+	<div id="icons" align="center">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=ts,docker,angular,react,py" />
+		</a>
+	</div>
+</div>
+
+<hr>
 
 ---
