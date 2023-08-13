@@ -1,18 +1,12 @@
 <p align="center">
-  <a href="https://Rasengan.yellowflash2041.repl.co">
+  <a href="https://Rasengan.yellowflash2041.repl.co" target="_blank">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
   </a>
 </p>
 
 ---
 
-#### 42 Badge:
-
----
-
-<p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ablaamim" alt="ablaamim's 42 stats" /></a>
-</p>
+#### 42 Badge :
 
 ---
 
@@ -39,9 +33,8 @@
 
 </p>
 
----
-
 <hr>
+
 
 *:hammer_and_wrench: my tools and languages (and other stuff)*
 
@@ -52,8 +45,6 @@
 		</a>
 	</div>
 </div>
-
-
 
 <div>
 	<div id="icons" align="center">
