@@ -1,8 +1,11 @@
 <p align="center">
   <a href="https://Rasengan.yellowflash2041.repl.co" target="_blank">
-    <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
+    <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*5XM77ae9J1fs8nxD.gif" />
   </a>
 </p>
+
+☁️ Cloud & DevOps Engineer | Automating Infrastructure | Building Scalable Systems
+🚀 Passionate about Cloud-Native Technologies | 🛠️ Infrastructure as Code | 🔄 CI/CD | ☸️ Kubernetes | 🐳 Docker | OpenStack
 
 ---
 
@@ -37,7 +40,7 @@
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=c,cpp,java,js,mysql,html,css,react,py,ts" />
+			<img src="https://skillicons.dev/icons?i=kubernetes,openstack,grafana,prometheus,ansible" />
 		</a>
 	</div>
 </div>
