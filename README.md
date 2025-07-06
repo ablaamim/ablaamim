@@ -1,11 +1,12 @@
+## ☁️ Cloud & DevOps Engineer | Automating Infrastructure | Building Scalable Systems
+## 🚀 Passionate about Cloud-Native Technologies | 🛠️ Infrastructure as Code | 🔄 CI/CD | ☸️ Kubernetes | 🐳 Docker | OpenStack
+
 <p align="center">
   <a href="https://Rasengan.yellowflash2041.repl.co" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*5XM77ae9J1fs8nxD.gif" />
   </a>
 </p>
 
-☁️ Cloud & DevOps Engineer | Automating Infrastructure | Building Scalable Systems
-🚀 Passionate about Cloud-Native Technologies | 🛠️ Infrastructure as Code | 🔄 CI/CD | ☸️ Kubernetes | 🐳 Docker | OpenStack
 
 ---
 
@@ -35,20 +36,12 @@
 <hr>
 
 
-*:hammer_and_wrench: my tools and languages (and other stuff)*
+*:hammer_and_wrench: my tools (and other stuff*
 
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=kubernetes,openstack,grafana,prometheus,ansible" />
-		</a>
-	</div>
-</div>
-
-<div>
-	<div id="icons" align="center">
-		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=bash,docker,git,vim,vscode,discord" />
+			<img src="https://skillicons.dev/icons?i=kubernetes,openstack,grafana,prometheus,ansible,bash,docker,git,vim,vscode,discord" />
 		</a>
 	</div>
 </div>
